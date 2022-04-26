@@ -10,6 +10,6 @@ function handleLoad() {
 }
 function buttonOnClick() {
     let text = document.getElementById("text");
-    text.innerHTML = "Du konntest nicht anders. Du hast den Button geklickt!";
+    text.innerHTML = "Hallo, ich grüße dich!";
 }
 //# sourceMappingURL=script.js.map

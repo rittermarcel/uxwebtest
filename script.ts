@@ -8,5 +8,5 @@ function handleLoad(): void {
 }
 function buttonOnClick(): void {
     let text: HTMLParagraphElement = <HTMLParagraphElement>document.getElementById("text");
-    text.innerHTML = "Du konntest nicht anders. Du hast den Button geklickt!";
+    text.innerHTML = "Hallo, ich grüße dich!";
 }
